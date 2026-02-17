@@ -58,5 +58,3 @@ To scale this application for production, I would implement the following strate
 - React community for excellent component libraries
 - MongoDB team for the flexible database solution
 - Open source community for continuous learning
-
----
